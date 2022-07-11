@@ -8,11 +8,9 @@ function ArticleList({posts}) {
     })
 
     return(
-    <React.Fragment>
         <main>
             {boobies}
-        </main>
-    </React.Fragment>)
+        </main>)
 }
 
 export default ArticleList
